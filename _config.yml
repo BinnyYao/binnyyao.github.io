@@ -2,7 +2,7 @@
 title: Binny`s Blog
 SEOTitle: Binny`s Blog | Blog
 header-img: img/post-bg-desk.jpg
-email: Binny.yao@outlook.com
+email: binny.yao@outlook.com
 description: "Every failure is leading towards success."
 keyword: "Binny`s Blog, binny.yao, Binny, iOS, Apple, iPhone"
 url: "http://binnyyao.github.io"          # your host, for absolute URL
@@ -99,16 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Binny·Github",
+        href: "https://github.com/BinnyYao/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书",
+        href: "http://www.jianshu.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Itellyou",
+        href: "https://next.itellyou.cn/"
     }
 ]
